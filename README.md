@@ -5,8 +5,8 @@
 
 # **NYC Taxi Revenue and Surcharge Analysis: Temporal and Behavioral Insights**
 ## Contributors 
+
 Neha Shastri, Glenn Castellino, Hyunjin YU, Quan Nguyen, Yifeng Chen
----
 ## **Overview**
 
 This project provides an in-depth analysis of taxi ride patterns in New York City (NYC), with a particular focus on the revenue and surcharge contributions across different hours of the day, alongside trends in tipping behavior. The project leverages datasets from NYC’s Green and Yellow taxi rides to explore how various factors like fare structure, surcharges, and customer behavior (tipping) evolve over time and at different times of the day.
